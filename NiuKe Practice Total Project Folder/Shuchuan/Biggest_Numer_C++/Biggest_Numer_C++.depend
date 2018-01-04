@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513876092 source:f:\codebloacks porjects\niuke practice total project folder\shuchuan\  biggest_numer_c++\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<malloc.h>
+

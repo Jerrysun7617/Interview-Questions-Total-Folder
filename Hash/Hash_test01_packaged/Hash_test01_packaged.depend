@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513620460 source:f:\codebloacks porjects\hash\hash_test01_packaged\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

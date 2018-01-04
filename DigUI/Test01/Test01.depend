@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513614009 source:f:\codebloacks porjects\digui\test01\main.c
+	<stdio.h>
+	<stdlib.h>
+

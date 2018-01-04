@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515076864 source:f:\interview_question_total_folder\niuke practice total project folder\new folder\sort_unique\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

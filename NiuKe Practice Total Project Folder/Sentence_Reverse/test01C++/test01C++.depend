@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513986430 source:f:\codebloacks porjects\niuke practice total project folder\sentence_reverse\test01c++\main.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<sstream>
+

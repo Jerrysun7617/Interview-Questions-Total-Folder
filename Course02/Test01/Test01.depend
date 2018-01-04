@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513473552 source:f:\codebloacks porjects\course02\test01\main.c
+	<stdio.h>
+	"../Status.h"
+	"../04 SinglyLinkedList/SinglyLinkedList.c"
+
+1513188532 f:\codebloacks porjects\course02\04 singlylinkedlist\singlylinkedlist.c
+	"SinglyLinkedList.h"
+
+1513187191 f:\codebloacks porjects\course02\04 singlylinkedlist\singlylinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"../Status.h"
+	"../Scanf.c"
+
+1476615667 f:\codebloacks porjects\course02\status.h
+
+1463630458 f:\codebloacks porjects\course02\scanf.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+
