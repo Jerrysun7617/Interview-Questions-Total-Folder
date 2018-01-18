@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516212909 source:f:\interview_question_total_folder\huawei tests\q31_longest_symmetry\main.cpp
+	<iostream>
+	<string.h>
+

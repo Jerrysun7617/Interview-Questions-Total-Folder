@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516216686 source:f:\interview_question_total_folder\niuke practice total project folder\2016_huawei_compus\pokers\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

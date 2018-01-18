@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516206660 source:f:\interview_question_total_folder\huawei tests\q26_longest_datastring\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

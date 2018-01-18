@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516126054 source:f:\interview_question_total_folder\huawei tests\string_type_quesiton\find_son_string\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

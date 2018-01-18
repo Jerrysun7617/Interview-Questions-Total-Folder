@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516190775 source:f:\interview_question_total_folder\huawei tests\oj  platform\q12_divide_string\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

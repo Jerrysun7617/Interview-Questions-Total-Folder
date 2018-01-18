@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516203357 source:f:\interview_question_total_folder\huawei tests\oj  platform\q19_static_same_char\main.cpp
+	<iostream>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<string.h>
+
