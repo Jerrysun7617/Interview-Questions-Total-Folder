@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515085974 source:f:\interview_question_total_folder\hash\hash_test01\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

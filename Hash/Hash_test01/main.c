@@ -121,5 +121,6 @@ int main()
     deleteWord("be");
 
     printWords();
+    scanf("%d",&i);
     return 0;
 }

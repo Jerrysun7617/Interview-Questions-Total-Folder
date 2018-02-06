@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int fundigui(int n)
 {
     int t = 0;
@@ -32,5 +31,6 @@ int main()
      //printf("\n%d\n",fundigui(numi));
 
      printf("\n%d\n", foo(20, 13));
+     scanf("%d",numi);
     return 0;
 }
