@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519672783 source:f:\interview_question_total_folder\company's interview tester together\impedans ltd tests\q_list\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<stdio.h>
+

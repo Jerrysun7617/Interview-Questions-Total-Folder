@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1519594596 source:g:\jobs total folder\every company interview proparation here\akuna capital\qtotal\q1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<queue>
+	<list>
+
+1519834010 source:f:\interview_question_total_folder\company's interview tester together\akuna capital\qtotal\q1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<queue>
+	<list>
+	<stdlib.h>
+

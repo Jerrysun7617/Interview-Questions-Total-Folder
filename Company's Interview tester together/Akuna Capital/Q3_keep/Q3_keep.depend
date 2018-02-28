@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519691430 source:f:\interview_question_total_folder\company's interview tester together\akuna capital\q3_keep\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<queue>
+	<list>
+	<stdlib.h>
+
